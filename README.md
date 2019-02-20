@@ -1,5 +1,5 @@
 ### nmp 
-### npm install
+### 安装依赖 npm install
 
 ### yarn
-### yarn
+### 安装依赖 yarn
